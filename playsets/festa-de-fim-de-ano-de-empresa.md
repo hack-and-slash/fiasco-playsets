@@ -5,8 +5,8 @@
 1. Chefe e subordinado
 2. Trabalham no mesmo projeto que não bateu as metas
 3. Dono da empresa e investidor
-4. 
-5. 
+4. Disputam a mesma promoção
+5. Planejam dar o golpe na empresa
 6. 
 
 ## 2 Relacionamento afetivo
@@ -33,10 +33,10 @@
 
 # Necessidades
 1. Chamar a atenção
-2. 
-3. 
-4. 
-5. 
+2. Desabafar com o chefe
+3. Precisa de uma desculpa para demitir alguém
+4. Encobrir fraudes
+5. Queimar o filme de alguém para o chefe
 6. 
 
 # Locações
@@ -48,7 +48,7 @@
 6. 
 
 # Objetos
-1.  
+1. 
 2. 
 3. 
 4. 
